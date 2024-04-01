@@ -1,3 +1,4 @@
 "Hi! This is a sample text file! Use Git commands to transfer this to a GitHub repository!" 
 "Hi! I edited this text file by prompting the Command Prompt to open this file using Notepad!"
 "I added another line in this text file using Command Prompt!" 
+"I added the fourth line for this text file using CMD Prompt!" 
