@@ -3,3 +3,4 @@
 "I added another line in this text file using Command Prompt!" 
 "I added the fourth line for this text file using CMD Prompt!" 
 "Added the last line in the text file." 
+"Text file is about to be pushed." 
